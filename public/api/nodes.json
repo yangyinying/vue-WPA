@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nodeName": "dfw1s10ftp01.xt.local",
+    "lastPatchedTime": "June 06, 2019",
+    "os": "windows-2019",
+    "type": "VM"
+  },
+  {
+    "id": 2,
+    "nodeName": "dfw1s10ftp02.xt.local",
+    "lastPatchedTime": "June 16, 2019",
+    "os": "windows-2019",
+    "type": "VM"
+  },
+  {
+    "id": 3,
+    "nodeName": "dfw1s10ftp03.xt.local",
+    "lastPatchedTime": "June 06, 2019",
+    "os": "windows-2016",
+    "type": "Physical"
+  },
+  {
+    "id": 4,
+    "nodeName": "dfw1s10ftp04.xt.local",
+    "lastPatchedTime": "June 16, 2019",
+    "os": "windows-2016",
+    "type": "Physical"
+  }
+]
